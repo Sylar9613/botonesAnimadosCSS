@@ -13,6 +13,6 @@
 }
 
 .boton.cuatro:hover::after {
-    transform: scale(400);
+    transform: scale(800);
     background: #cc1010;
 }
